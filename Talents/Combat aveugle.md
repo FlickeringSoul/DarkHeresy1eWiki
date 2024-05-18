@@ -1,0 +1,2 @@
+#Talent 
+Vous n'avez plus besoin de voir vos adversaire pour toucher. Vous ne subissez que la moitié des malus habituels lorsque vous combattez dans un environnement qui gêne la vue (brouillard, fumée, obscurité)
