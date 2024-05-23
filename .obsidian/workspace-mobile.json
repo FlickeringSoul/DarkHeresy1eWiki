@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ddfbec194185062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Promotions/Psyker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Promotions/Psyker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Promotions/Psyker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Promotions/Psyker.md"
           }
         }
       }
@@ -131,11 +144,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd1afcd58ddc64d9",
+  "active": "9ddfbec194185062",
   "lastOpenFiles": [
+    "Promotions/Aspirant.md",
+    "Promotions/Promotion.md",
+    "Talents/Blasé.md",
+    "Promotions",
+    "Mondes d’origines/Tripes d’acier.md",
+    "Mondes d’origines/Monde sauvage.md",
+    "Mondes d’origines/Rite de passage.md",
+    "Mondes d’origines/Primitif.md",
+    "Mondes d’origines/Braconnier.md",
+    "README.md",
+    "Mondes d’origines",
     "Réactivité.md",
-    "Théoricien Arcanum.md",
-    "Promotion.md",
+    "Promotions/Théoricien Arcanum.md",
     "Fatigue.md",
     "Combat à deux armes.md",
     "Talents/Résonnance binaire.md",
@@ -152,15 +175,7 @@
     "Talents/Niveau Psy 4.md",
     "Talents",
     "Talents/Formation aux armes de poing.md",
-    "Sanctionite.md",
-    "Charactéristiques/Force Mentale.md",
     "Charactéristiques",
-    "Théoricien Materium.md",
-    "Talents/Agilité Féline.md",
-    "Talents/Pair.md",
-    "Talents/Niveau Psy 6.md",
-    "Compétences/Psyniscience.md",
-    "Compétences",
-    "Talents/Pouvoir Psychique Mineur.md"
+    "Compétences"
   ]
 }

@@ -1,0 +1,1 @@
+-10 aux jets de [[Technomaitrise]] ainsi qu’aux tests de [[Sociabilité]] dans un environnement civilisé ou des circonstances officielles 
