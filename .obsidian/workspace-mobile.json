@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Promotions/Psyker.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,6 +147,9 @@
   "active": "9ddfbec194185062",
   "lastOpenFiles": [
     "Promotions/Aspirant.md",
+    "Promotions/Psyker.md",
+    "Promotions/Néophyte.md",
+    "Promotions/Sanctionite.md",
     "Promotions/Promotion.md",
     "Talents/Blasé.md",
     "Promotions",
@@ -171,10 +174,7 @@
     "Talents/Méditation.md",
     "Talents/Constitution solide.md",
     "Talents/Rechargement rapide.md",
-    "Talents/Sommeil léger.md",
-    "Talents/Niveau Psy 4.md",
     "Talents",
-    "Talents/Formation aux armes de poing.md",
     "Charactéristiques",
     "Compétences"
   ]

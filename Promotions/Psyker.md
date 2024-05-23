@@ -11,6 +11,7 @@ Tous les psykers commencent avec un [[Niveau Psy 1]]
 - [[Formation aux armes de corps à corps]] (primitives)
 - [[Formation aux armes de poing]] (laser)
 - [[Formation aux armes de poing]] (MS)
+- [[Niveau Psy 1]]
 
 Equipement de départ:
 - Epée 
